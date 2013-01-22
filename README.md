@@ -26,3 +26,4 @@ Then you will need to activate the plugins in your RoundCube configuration files
 	$rcmail_config['password_driver'] = 'sgcontrol';
 
 
+Copyright (c) 2012-2013 ServerGrove Networks, Inc.
